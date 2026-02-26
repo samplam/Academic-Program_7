@@ -11,7 +11,7 @@ This program was coded to answer a specific question for an evaluation in an aca
 
 ## Skills Highlighted
 - Programming in C++
-- Basic progamming logic
+- Basic progamming logic and functions
 
 ## Usage
 1. Open 'TN2ex1.cpp' in a C++ IDE
